@@ -5,8 +5,6 @@ Nesta atividade, você vai utilizar a Fetch API para consumir dados reais de fil
 
 A atividade foi pensada para ser concluída em até 1h no laboratório, usando Visual Studio Code e um navegador.
 
- 
-
 Habilidades a serem trabalhadas
 Consumo de APIs externas por meio de requisições assíncronas com Fetch API
 Processamento de dados em JSON retornado pela APIs RESTful
@@ -16,14 +14,11 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Yandi Orlando Santos Rivero
+- Matricula: 909840
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![print](public/print1.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
 
